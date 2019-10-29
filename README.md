@@ -195,4 +195,5 @@ jupyter notebook
 | [ST001000](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Study&StudyID=ST001000) | A stool LC-MS dataset (4 modes- HILICpos, HILICneg, C18neg, C8pos) consisting of >8,000 measured metabolite features. The primary outcome for this paper was healthy controls vs. inflammatory bowel disease (IBD), which includes Crohn's disease (CD) and ulcerative colitis (UC). For the purpose of this publication, we compare UC (Class=1; n=68) and CD (Class=0; n=53) using the C18neg dataset in a binary discriminant analysis. |
 | [ST001047](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Study&StudyID=ST001047) | A urine NMR data set consisting of 149 named metabolites. The primary outcome for this paper was the urine was Gastric Cancer (GC; n=43) v Benign Tumor (BN; n=40) v Healthy Control (HE; n=40). For the purposes of this publication we compare only the GC vs HE samples in a binary discrimiant analysis.                                                                                                                               |
 
+
 <br />
