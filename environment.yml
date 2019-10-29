@@ -10,4 +10,4 @@ dependencies:
   - numpy=1.16.3
   - pandas=0.24.2
   - openpyxl=2.6.1
-  - cimcb=2.0.34
+  - cimcb=2.0.35
