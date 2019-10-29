@@ -1,6 +1,6 @@
 <b>Table of Contents:</b>
 -   [Overview of the Repository](#zero)
--	[Table 1: Median and 95% CI in-bag and out-of-bag AUC using bootstrap resampling (n=100) for the following datasets and methods.](#one)
+-	[Table 1: Table 1: Train (with IB 95% CI) and Test (with OOB 95% CI) AUC for the following datasets and methods.](#one)
 -	[Table 2: The download link for the following datasets and methods.](#two)
 -	[Table 3: Machine Learning Methods ](#three)
 -	[Table 4: Datasets](#four)
