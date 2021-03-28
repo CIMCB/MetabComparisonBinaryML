@@ -11,3 +11,5 @@ dependencies:
   - pandas=0.24.2
   - openpyxl=2.6.1
   - cimcb=2.0.35
+  - xlrd=1.2.0
+  - keras=2.2.4
