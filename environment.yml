@@ -14,3 +14,4 @@ dependencies:
   - cimcb=2.0.35
   - xlrd=1.2.0
   - keras=2.2.4
+  - Jinja2==3.0.3
